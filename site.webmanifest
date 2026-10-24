@@ -1,0 +1,21 @@
+{
+  "name": "North Olmsted Pro Plumbing",
+  "short_name": "NO Pro Plumbing",
+  "description": "24/7 emergency plumber in North Olmsted, OH",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#7A1F35",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
